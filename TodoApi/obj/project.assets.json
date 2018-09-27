@@ -11509,11 +11509,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Workspace\\GreenTower\\TodoApi\\TodoApi.csproj",
+      "projectUniqueName": "C:\\Workspace\\playground\\TodoApi\\TodoApi.csproj",
       "projectName": "TodoApi",
-      "projectPath": "c:\\Workspace\\GreenTower\\TodoApi\\TodoApi.csproj",
+      "projectPath": "C:\\Workspace\\playground\\TodoApi\\TodoApi.csproj",
       "packagesPath": "C:\\Users\\bogda\\.nuget\\packages\\",
-      "outputPath": "c:\\Workspace\\GreenTower\\TodoApi\\obj\\",
+      "outputPath": "C:\\Workspace\\playground\\TodoApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
